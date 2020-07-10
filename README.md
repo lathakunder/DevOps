@@ -1,2 +1,0 @@
-# DevOps
-Testing DevOps Flow
